@@ -1,0 +1,10 @@
+Gonzel Salvador,Bilgisayar Mühendisliği
+Oğuz Artıran,Finansal Matematik
+Cengiz Haklı,Bilgisayar Mühendisliği
+Yusuf Mücahit,İşletme
+Görkem Özerli,İstatistik
+Semih Şen,Bilgisayar Mühendisliği
+Hasan Bayık,İşletme
+Ali Ozan,Hukuk
+Galim Garip,İnşaat Mühendisliği
+Sercan Hikme,Psikolog
